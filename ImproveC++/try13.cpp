@@ -1,3 +1,8 @@
+#include<iostream>
+using namespace std;
+#include<string>
+#include<list>
+
 
 class Person
 {
