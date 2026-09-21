@@ -35,6 +35,7 @@ int main()
     }
 
     cout << endl;
+    cout<<"测试代码"<<endl;
 
     system("pause");
     return 0;
