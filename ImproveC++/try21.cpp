@@ -75,14 +75,7 @@ public:
 
 	bool operator==(const Person &p) const
 	{
-		if(p.m_age == this->m_age&&p.m_name == this->m_name)
-		{
-			return true;
-		}
-		else
-		{
-			return false;
-		}
+		return p.m_age == this->m_age && p.m_name == this->m_name;
 	}
 
 	string m_name;
