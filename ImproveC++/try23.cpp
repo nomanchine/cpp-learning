@@ -73,6 +73,6 @@ int main()
 	test1();
 
 
-	system("pause");
+	system("pause");//nihao1
 	return 0;
 }
